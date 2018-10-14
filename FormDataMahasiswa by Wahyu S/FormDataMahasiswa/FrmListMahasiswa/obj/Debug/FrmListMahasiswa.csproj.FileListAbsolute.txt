@@ -1,0 +1,9 @@
+D:\q\FormDataMahasiswa\FrmListMahasiswa\bin\Debug\FrmListMahasiswa.exe.config
+D:\q\FormDataMahasiswa\FrmListMahasiswa\bin\Debug\FrmListMahasiswa.exe
+D:\q\FormDataMahasiswa\FrmListMahasiswa\bin\Debug\FrmListMahasiswa.pdb
+D:\q\FormDataMahasiswa\FrmListMahasiswa\obj\Debug\FrmListMahasiswa.Form1.resources
+D:\q\FormDataMahasiswa\FrmListMahasiswa\obj\Debug\FrmListMahasiswa.Properties.Resources.resources
+D:\q\FormDataMahasiswa\FrmListMahasiswa\obj\Debug\FrmListMahasiswa.csproj.GenerateResource.cache
+D:\q\FormDataMahasiswa\FrmListMahasiswa\obj\Debug\FrmListMahasiswa.csproj.CoreCompileInputs.cache
+D:\q\FormDataMahasiswa\FrmListMahasiswa\obj\Debug\FrmListMahasiswa.exe
+D:\q\FormDataMahasiswa\FrmListMahasiswa\obj\Debug\FrmListMahasiswa.pdb
